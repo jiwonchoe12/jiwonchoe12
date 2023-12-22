@@ -20,7 +20,6 @@
 
 ### About Me
 
-
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonchoe12&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent&title_color=333333&text_color=333333" />
 </a>
