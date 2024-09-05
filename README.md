@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=faebd7&height=300&section=header&text=Welcome!&fontColor=333333&fontSize=90)
 ---
 ### Introduction🙋‍♀️
-✔️ (2022.3 ~ ) 42 Seoul 8th Cadet <br>
-✔️ 23년도 경기지역 KT 랜선야학 AI 코딩 멘토
+✔️ 최지원 입니다:)
 
 ### Contact
 ![Static Badge](https://img.shields.io/badge/belle021202%40naver.com-008000?style=plastic&logo=Naver&logoColor=ffffff&color=008000)
