@@ -7,6 +7,9 @@
 ![Static Badge](https://img.shields.io/badge/belle021202%40naver.com-008000?style=plastic&logo=Naver&logoColor=ffffff&color=008000)
 ![Static Badge](https://img.shields.io/badge/s2_olaf-ffffff?style=plastic&logo=instagram&logoColor=ffffff&color=8a2be2)
 
+### What I Like
+
+
 ### Tech Stack
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=ffffff&color=A8B9CC)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=plastic&logo=c&logoColor=ffffff&color=00599C)
