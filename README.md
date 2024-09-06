@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/s2_olaf-ffffff?style=plastic&logo=instagram&logoColor=ffffff&color=8a2be2)
 
 ### What I Like
-
+- minji hahhahahahahahh!! 
 
 ### Tech Stack
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=ffffff&color=A8B9CC)
