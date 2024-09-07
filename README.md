@@ -1,24 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=faebd7&height=300&section=header&text=Welcome!&fontColor=333333&fontSize=90)
----
 
-### Introduction🙋‍♀️
-안녕하세요! `신뢰성`을 개발의 핵심 가치로 삼고 있는 개발자 최지원입니다.
-
-### What I Like🫶
-📌 Listening To Music
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31axcpekxtvtogvxi45pvkpm22eq&cover_image=true&theme=default&show_offline=false&background_color=fff2d5&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-📌 Disney Character
-![img]()
-
-### Extracurricular Activities👩‍💻
-|Period|Activity|
-|------|---------------|
-|2022.11 ~ 2024.02|42 Seoul 8th Cadet|
-|2023.06 ~ 2023.08|23년도 경기지역 KT 랜선야학 AI 코딩 멘토|
-|2024.03 ~ 2024.08|한국정보통신기술협회(TTA) 인턴|
-|2024.09 ~ |신한 투자증권 프로디지털 아카데미|
 
 ### Tech Stack💻
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=ffffff&color=A8B9CC)
