@@ -50,7 +50,9 @@
 </div>
 
 ### Projects📚
+<div align=center>
 (empty)
+</div>
 
 ### Stats📊
 <div align=center>
