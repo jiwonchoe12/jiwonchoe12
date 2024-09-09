@@ -53,6 +53,8 @@
 (empty)
 
 ### Stats📊
+<div align=center>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0jiwonchoe12&count_bg=%23faebd7&title_bg=%23A7A7A7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="s">
@@ -61,8 +63,12 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=jiwonchoe12&theme=transparent&title_color=333333&text_color=333333&icon_color=333333&show_icons=true" width="42%" />
 </a>
+</div>
 
 ### Contact📞
+<div align=center>
+  
 ![Static Badge](https://img.shields.io/badge/belle021202%40naver.com-008000?style=plastic&logo=Naver&logoColor=ffffff&color=008000)
 ![Static Badge](https://img.shields.io/badge/s2_olaf-ffffff?style=plastic&logo=instagram&logoColor=ffffff&color=8a2be2)
 
+</div>
