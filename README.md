@@ -34,6 +34,9 @@
 |Tool/DevOps|![Static Badge](https://img.shields.io/badge/amazon%20aws-%23232F3E?style=plastic&logo=amazon%20aws&logoColor=ffffff&color=%23232F3E) ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=plastic&logo=Docker&logoColor=ffffff&color=%232496ED)|![](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)|
 |Version Control|![Static Badge](https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white)|![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=006600)|
 
+### Projects📚
+(empty)
+
 ### Stats📊
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0jiwonchoe12&count_bg=%23faebd7&title_bg=%23A7A7A7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
