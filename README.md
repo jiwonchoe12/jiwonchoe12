@@ -38,15 +38,9 @@
 |Version Control|![Static Badge](https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white)|
 </div>
 
-### Projects📚
-<div align=center>
-(empty)
-</div>
 
 ### Stats📊
 <div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0jiwonchoe12&count_bg=%23faebd7&title_bg=%23A7A7A7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonchoe12&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent&title_color=333333&text_color=333333" />
